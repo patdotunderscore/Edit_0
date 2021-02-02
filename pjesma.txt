@@ -1,4 +1,4 @@
-Programer i zidari
+Programer 
 
 Vozili se u autu mehaničar, električar i programer. Auto se pokvari.
 Mehaničar kaže:
@@ -8,7 +8,3 @@ Električar:
 Kad će programer:
 -A da probamo izaći, pa ponovo ući?
 
-Onoga dana dogradismo krov,
-visok i pristao.
-Pala je kiša i polila krov
-i on je blistao.
